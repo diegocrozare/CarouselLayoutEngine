@@ -1,0 +1,16 @@
+PODS:
+  - CarouselLayoutEngine (0.1.0)
+
+DEPENDENCIES:
+  - CarouselLayoutEngine (from `../`)
+
+EXTERNAL SOURCES:
+  CarouselLayoutEngine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CarouselLayoutEngine: fe74c5fcfb69b77f45a8609a3a8f0469ec8ecb08
+
+PODFILE CHECKSUM: f2c742fb6c6ad084c4c1015080cc530b03f51c21
+
+COCOAPODS: 1.11.1

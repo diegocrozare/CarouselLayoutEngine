@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CarouselLayoutEngine_Example' do
+  pod 'CarouselLayoutEngine', :path => '../'
+
+  target 'CarouselLayoutEngine_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
